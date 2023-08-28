@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <titel>shaylet's first website</titel>
+   <meta charset="UTF-8"
+</head>
+
+<body>
+<h1>yuw president</h1>
+<h2>debating journery</h2>
+<p>my debating journery started when i want to upgrade my communication and analysing skills this would help me when advocating for the rights of women in the advocacy group i am leading</p>
+</body>
+</html>
