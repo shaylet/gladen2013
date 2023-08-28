@@ -8,6 +8,6 @@
 <body>
 <h1>yuw president</h1>
 <h2>debating journery</h2>
-<p>my debating journey started when I want to upgrade my communication and analyzing skills this would help me when advocating for the rights of women in the advocacy group I am leading</p>
+<p>my debating journery started when i want to upgrade my communication and analysing skills this would help me when advocating for the rights of women in the advocacy group i am leading</p>
 </body>
 </html>
